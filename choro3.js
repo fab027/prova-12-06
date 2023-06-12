@@ -7,5 +7,5 @@ function calcularFatorial(numero) {
   }
   
   for (let i = 1; i <= 10; i++) {
-    console.log(`O fatorial de ${i} é ${calcularFatorial(i)}`);
+    console.log(`O numero ${i} tem o fatorial de ${calcularFatorial(i)}`);
   }
